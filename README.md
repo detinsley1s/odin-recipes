@@ -1,1 +1,1 @@
-# odin-recipes
+This project is the first project of the Foundations module of The Odin Project. In the project, I will create a basic webpage containing recipes to get practice with HTML.
