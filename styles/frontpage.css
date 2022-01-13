@@ -1,0 +1,23 @@
+body {
+    background-color: ivory;
+}
+
+h1 {
+    font-size: 64px;
+    color: tomato;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 32px;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1,
+ul {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
